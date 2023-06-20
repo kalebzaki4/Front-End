@@ -10,7 +10,6 @@ O objetivo desse desafio é aprimorar suas habilidades de programação em JavaS
 
 - 📁 **Projetos**: Nesta pasta você encontrará os projetos diários em JavaScript, cada um com seu próprio diretório contendo os arquivos relacionados ao projeto.
 - 📄 **README.md**: Este arquivo contém informações gerais sobre o desafio e orientações para participar.
-- 📄 **log.md**: Neste arquivo, você pode registrar seu progresso diário, incluindo detalhes sobre cada projeto desenvolvido.
 
 ## Como Participar
 
