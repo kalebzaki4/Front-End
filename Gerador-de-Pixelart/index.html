@@ -1,40 +1,47 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./style.css">
-    <title>1# - gerador de pixel art</title>
+    <link rel="stylesheet" href="style.css">
+    <title>#1 - Gerador de Pixel Art</title>
 </head>
+
 <body>
-    
+
     <div class="wrapper">
         <div class="options">
             <div class="opt-wrapper">
                 <div class="slider">
-                    <label for="width-range">Largura da grade</label>
-                    <input type="range" id="width-range" min="1" max="1">
+                    <label for="width-range">Largura Da grade</label>
+                    <input type="range" id="width-range" min="1" max="35">
                     <span id="width-value">00</span>
                 </div>
                 <div class="slider">
-                    <label for="height-range">Altura da grade</label>
-                    <input type="range" id="height-range" min="1" max="1">
+                    <label for="height-range">Altura Da grade</label>
+                    <input type="range" id="height-range" min="1" max="35">
                     <span id="height-value">00</span>
                 </div>
             </div>
 
             <div class="opt-wrapper">
-                <button id="submit-grid">Criar grade</button>
-                <button id="clear-grid">limpar grade</button>
+                <button id="submit-grid">Criar Grade</button>
+                <button id="clear-grid">Limpar Grade</button>
                 <input type="color" id="color-input">
-                <button id="erase-btn">Apagar</button>
+                <button id="erase-btn">Excluir</button>
                 <button id="paint-btn">Pintar</button>
             </div>
-            
+
         </div>
         <div class="container"></div>
     </div>
 
-    <script></script>
+
+
+
+    <script src="index.js"></script>
 </body>
+
 </html>
