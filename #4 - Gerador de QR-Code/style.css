@@ -109,3 +109,31 @@ a{
     display: flex;
     margin: 1rem 0;
 }
+
+@media (max-width: 512px){
+    body{
+        max-width: 100%;
+        padding: 10px;
+    }
+    #qr-code{
+        width: 95vw;
+        height: 95vw;
+    }
+    #qr-code img, #qr-code canvas{
+        max-width: 95vw !important;
+        max-height: 95vw !important;
+    }
+    .btn{
+        min-width: unset;
+    }
+}
+
+@media (max-width: 350px){
+    .action-container{
+        flex-direction: column;
+    }
+    .share-btn{
+        margin-left: 0;
+        margin-top: 0.7rem;
+    }
+}
