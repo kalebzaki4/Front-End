@@ -12,7 +12,7 @@ qrText.addEventListener("input", handleQRText);
 sizes.addEventListener("change", handleSize);
 shareBtn.addEventListener("click", handleShare);
 
-const defaultUrl = "https://youtube.com/@AsmrProg";
+const defaultUrl = "https://www.twitch.tv/kalebzaki";
 let colorLight = "#fff",
     colorDark = "#000",
     text = defaultUrl,
@@ -62,7 +62,7 @@ async function handleShare() {
                 title: text,
             });
         } catch (error) {
-            alert("Your browser doesn't support sharing.");
+            alert("Seu navegador não suporta compartilhamento.");
         }
     }, 100);
 }
