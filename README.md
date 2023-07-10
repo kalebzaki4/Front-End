@@ -39,46 +39,46 @@ O objetivo desse desafio é aprimorar suas habilidades de programação em JavaS
 ## Projetos
 - Aqui temos a lista de projetos:
 
-1 - Gerador de Pixel Art
-2 - Editor de texto rico
-3 - Gerador de senhas
-4 - Gerador de código QR
-5 - Detectar bateria do dispositivo
-6 - Jogo XO
-7 - Jogue uma moeda
-8 - Formulário de várias etapas
-9 - Calculadora de razão de aspecto
-10 - aplicativo de clima
-11 - Aplicativo de guia de filmes
-12 - Tipo de aplicativo de teste
-13 - aplicativo tradutor
-14 - Aplicativo de Preço de Criptografia
-15 - aplicativo de tarefas
-16 - Gerador de Arte Geométrica
-17 - jogo da cobra
-18 - aplicativo de orçamento
-19 - Aplicativo de conversão de texto em fala
-20 - Leitor de código QR
-21 - Aplicativo de roda giratória
-22 - Gerador de Gradiente
-23 - Adivinhar o jogo de palavras
-24 - Jogo Simon
-25 - Gráficos Apex
-26 - Aplicativo Guia de Receitas
-27 - Jogo Campo Minado
-28 - Github API
-29 - Jogo de fuga
-30 - Aplicativo de reprodução de música
-31 - Chat GPT Bot
-32 - API do Google Maps
-33 - Jogo Pong
-34 - Extensão do seletor de cores do Google Chrome
-35 - Animação ASCII Donuts
-36 - Aplicativo Rastreador de Estoque
-37 - Gerador de sombra de caixa
-38 - Aplicativo de filme (TheMovieDB)
-39 - Widget de Visualização de Negociação
-40 - Detectar velocidade da Internet
+1. - Gerador de Pixel Art
+2. - Editor de texto rico
+3. - Gerador de senhas
+4. - Gerador de código QR
+5. - Detectar bateria do dispositivo
+6. - Jogo XO
+7. - Jogue uma moeda
+8. - Formulário de várias etapas
+9. - Calculadora de razão de aspecto
+10. - aplicativo de clima
+11. - Aplicativo de guia de filmes
+12. - Tipo de aplicativo de teste
+13. - aplicativo tradutor
+14. - Aplicativo de Preço de Criptografia
+15. - aplicativo de tarefas
+16. - Gerador de Arte Geométrica
+17. - jogo da cobra
+18. - aplicativo de orçamento
+19. - Aplicativo de conversão de texto em fala
+20. - Leitor de código QR
+21. - Aplicativo de roda giratória
+22. - Gerador de Gradiente
+23. - Adivinhar o jogo de palavras
+24. - Jogo Simon
+25. - Gráficos Apex
+26. - Aplicativo Guia de Receitas
+27. - Jogo Campo Minado
+28. - Github API
+29. - Jogo de fuga
+30. - Aplicativo de reprodução de música
+31. - Chat GPT Bot
+32. - API do Google Maps
+33. - Jogo Pong
+34. - Extensão do seletor de cores do Google Chrome
+35. - Animação ASCII Donuts
+36. - Aplicativo Rastreador de Estoque
+37. - Gerador de sombra de caixa
+38. - Aplicativo de filme (TheMovieDB)
+39. - Widget de Visualização de Negociação
+40. - Detectar velocidade da Internet
 
 ## Licença
 
