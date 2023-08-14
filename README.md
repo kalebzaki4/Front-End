@@ -1,4 +1,4 @@
-# 1 Mês de Programação em JavaScript 🚀⌨️
+# 1 Mês de Programação em JavaScript 🚀⌨
 
 Este repositório foi criado para acompanhar o empolgante desafio de 1 mes de programação em JavaScript! Durante 100 dias consecutivos, o objetivo é mergulhar no mundo do JavaScript, criando um novo projeto em JavaScript a cada dia.
 
