@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Manipulando o DOM - Aula 2</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<style>
+    * {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 400px;
+  background-color: #000000;
+  background-size: 80vh;
+  color: rgb(29, 0, 82);
+  background-image: url("https://i.ytimg.com/vi/XIXYk6xIhZs/maxresdefault.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 10px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+button {
+  margin-left: 10px;
+  font-size: 24px;
+  font-family: "Futura Lt BT", sans-serif;
+  background-color: black;
+  background-repeat: no-repeat;
+  text-transform: uppercase;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+  padding: 8px 20px 8px 20px;
+  color: white;
+  box-shadow: 0px 0px 5px gray;
+  border-radius: 5px 5px 0 0;
+  border: none;
+  transition: 500ms;
+  opacity: 0.8;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+button:hover {
+  color: white;
+  background-color: gray;
+}
+
+button:active {
+  color: black;
+  background-color: white;
+}
+
+.resultado {
+  margin-bottom: 30px;
+}
+</style>
+<body>
+  <div class="container">
+
+    <h1 class="page-title">
+      Manipulando elementos no DOM</h1>
+
+      <button id="calcular" onclick="console.log('Fui clicado')">Enviar notas</button>
+
+      <h1 class="resultado"></h1>
+
+      <h2 class="resultado"></h2>
+
+  </div>
+
+  <a href="https://alura.com.br/" target="_blank"><img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo"></a>
+
+  <script>
+    const elemento = document.querySelector("#calcular");
+    const resultado = document.querySelector(".resultado");
+
+    elemento.addEventListener("click", (evento) => {
+    resultado.innerHTML = "Fui clicado"
+    })
+  </script>
+</body>
+</html>
