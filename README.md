@@ -12,8 +12,8 @@
 
 ## 🚀 Como Usar
 
-1. Faça um clone deste repositório: `git clone https://github.com/seu-usuario/front-end-estudos.git`.
-2. Navegue até o diretório do projeto: `cd front-end-estudos`.
+1. Faça um clone deste repositório: `git clone https://github.com/kalebzaki4/front-End.git`.
+2. Navegue até o diretório do projeto: `cd front-end-`.
 3. Explore os diferentes projetos e leia as instruções específicas em cada pasta para entender como executar ou visualizar cada um.
 4. Sinta-se à vontade para modificar e experimentar com os códigos para aprofundar seu aprendizado.
 
@@ -22,13 +22,11 @@
 Contribuições são bem-vindas! Se você deseja adicionar novos projetos, melhorias ou corrigir problemas, siga estas etapas:
 
 1. Faça um fork deste repositório.
-2. Crie um branch para sua feature ou correção: `git checkout -b minha-feature`.
+2. Crie um branch para sua feature ou correção: `git checkout -b sua-feature`.
 3. Faça as alterações desejadas.
-4. Faça commit das suas alterações: `git commit -m 'Adiciona minha feature'`.
-5. Envie para o branch principal: `git push origin minha-feature`.
+4. Faça commit das suas alterações: `git commit -m 'Adiciona sua feature'`.
+5. Envie para o branch principal: `git push origin sua-feature`.
 
 ## 📝 Licença
 
 Feito com ❤️ e dedicação ao aprendizado por [SeuNome](https://github.com/kalebzaki4).
-
-Lembre-se de substituir os placeholders (como `seu-usuario`, `link_para_uma_imagem`, `link_para_licenca`, etc.) pelos valores reais correspondentes ao seu repositório e perfil. Além disso, certifique-se de adicionar os links corretos para a licença que você está utilizando.
