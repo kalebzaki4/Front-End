@@ -29,4 +29,4 @@ Contribuições são bem-vindas! Se você deseja adicionar novos projetos, melho
 
 ## 📝 Licença
 
-Feito com ❤️ e dedicação ao aprendizado por [SeuNome](https://github.com/kalebzaki4).
+Feito com ❤️ e dedicação ao aprendizado por [Kalebzaki](https://github.com/kalebzaki4).
