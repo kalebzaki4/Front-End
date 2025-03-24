@@ -1,5 +1,5 @@
+import { Pensamento } from './../pensamento';
 import { Component, Input, OnInit } from '@angular/core';
-import { Pensamento } from '../pensamentos';
 
 @Component({
   selector: 'app-pensamento',
@@ -21,7 +21,7 @@ export class PensamentoComponent implements OnInit {
   }
 
   larguraPensamento(): string {
-    if (this.pensamento.conteudo.length >= 256) {
+    if(this.pensamento.conteudo.length >= 256) {
       return 'pensamento-g'
     }
     return 'pensamento-p'
